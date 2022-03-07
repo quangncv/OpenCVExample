@@ -1,0 +1,1 @@
+/Users/nguyenchivinhquang/Desktop/ProjectAndroid/OpenCVExample/opencv/build/intermediates/cxx/RelWithDebInfo/1y276j4q/obj/x86_64

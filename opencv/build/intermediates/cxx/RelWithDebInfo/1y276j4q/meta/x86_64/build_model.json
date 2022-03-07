@@ -1,0 +1,172 @@
+{
+  "abi": "X86_64",
+  "info": {
+    "abi": "X86_64",
+    "bitness": 64,
+    "deprecated": false,
+    "default": true
+  },
+  "cxxBuildFolder": "/Users/nguyenchivinhquang/Desktop/ProjectAndroid/OpenCVExample/opencv/.cxx/RelWithDebInfo/1y276j4q/x86_64",
+  "soFolder": "/Users/nguyenchivinhquang/Desktop/ProjectAndroid/OpenCVExample/opencv/build/intermediates/cxx/RelWithDebInfo/1y276j4q/obj/x86_64",
+  "soRepublishFolder": "/Users/nguyenchivinhquang/Desktop/ProjectAndroid/OpenCVExample/opencv/build/intermediates/cmake/release/obj/x86_64",
+  "abiPlatformVersion": 21,
+  "cmake": {
+    "effectiveConfiguration": {
+      "inheritEnvironments": [],
+      "variables": []
+    }
+  },
+  "variant": {
+    "buildSystemArgumentList": [
+      "-DANDROID_STL\u003dc++_shared"
+    ],
+    "cFlagsList": [],
+    "cppFlagsList": [],
+    "variantName": "release",
+    "soFolder": "/Users/nguyenchivinhquang/Desktop/ProjectAndroid/OpenCVExample/opencv/build/intermediates/cxx/RelWithDebInfo/1y276j4q/obj",
+    "soRepublishFolder": "/Users/nguyenchivinhquang/Desktop/ProjectAndroid/OpenCVExample/opencv/build/intermediates/cmake/release/obj",
+    "cxxBuildFolder": "/Users/nguyenchivinhquang/Desktop/ProjectAndroid/OpenCVExample/opencv/.cxx/RelWithDebInfo/1y276j4q",
+    "intermediatesFolder": "/Users/nguyenchivinhquang/Desktop/ProjectAndroid/OpenCVExample/opencv/build/intermediates/cxx/RelWithDebInfo/1y276j4q",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": [
+      "opencv_jni_shared"
+    ],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "/Users/nguyenchivinhquang/Desktop/ProjectAndroid/OpenCVExample/opencv/.cxx",
+      "intermediatesBaseFolder": "/Users/nguyenchivinhquang/Desktop/ProjectAndroid/OpenCVExample/opencv/build/intermediates",
+      "intermediatesFolder": "/Users/nguyenchivinhquang/Desktop/ProjectAndroid/OpenCVExample/opencv/build/intermediates/cxx",
+      "gradleModulePathName": ":opencv",
+      "moduleRootFolder": "/Users/nguyenchivinhquang/Desktop/ProjectAndroid/OpenCVExample/opencv",
+      "moduleBuildFile": "/Users/nguyenchivinhquang/Desktop/ProjectAndroid/OpenCVExample/opencv/build.gradle",
+      "makeFile": "/Users/nguyenchivinhquang/Desktop/ProjectAndroid/OpenCVExample/opencv/libcxx_helper/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "ndkFolder": "/Users/nguyenchivinhquang/Library/Android/sdk/ndk/21.4.7075529",
+      "ndkVersion": "21.4.7075529",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "LIBCXX_STATIC",
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 30,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "cmakeToolchainFile": "/Users/nguyenchivinhquang/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+      "cmake": {
+        "isValidCmakeAvailable": true,
+        "cmakeExe": "/Users/nguyenchivinhquang/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
+        "minimumCmakeVersion": "3.10.2",
+        "ninjaExe": "/Users/nguyenchivinhquang/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja"
+      },
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "/Users/nguyenchivinhquang/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/Users/nguyenchivinhquang/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/Users/nguyenchivinhquang/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/Users/nguyenchivinhquang/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "/Users/nguyenchivinhquang/Desktop/ProjectAndroid/OpenCVExample",
+        "sdkFolder": "/Users/nguyenchivinhquang/Library/Android/sdk",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false
+      },
+      "nativeBuildOutputLevel": "QUIET"
+    },
+    "prefabClassPathFileCollection": [],
+    "prefabPackageDirectoryListFileCollection": [],
+    "stlType": "c++_shared",
+    "optimizationTag": "RelWithDebInfo"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "/Users/nguyenchivinhquang/Desktop/ProjectAndroid/OpenCVExample/opencv/.cxx/RelWithDebInfo/1y276j4q/prefab/x86_64",
+  "isActiveAbi": true,
+  "fullConfigurationHash": "1y276j4q182o3e166a1n1r2q2i3lq126l503k5o5o2r325r461q224h422g1m6m",
+  "configurationArguments": [
+    "-H/Users/nguyenchivinhquang/Desktop/ProjectAndroid/OpenCVExample/opencv/libcxx_helper",
+    "-DCMAKE_SYSTEM_NAME\u003dAndroid",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
+    "-DCMAKE_SYSTEM_VERSION\u003d21",
+    "-DANDROID_PLATFORM\u003dandroid-21",
+    "-DANDROID_ABI\u003dx86_64",
+    "-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64",
+    "-DANDROID_NDK\u003d/Users/nguyenchivinhquang/Library/Android/sdk/ndk/21.4.7075529",
+    "-DCMAKE_ANDROID_NDK\u003d/Users/nguyenchivinhquang/Library/Android/sdk/ndk/21.4.7075529",
+    "-DCMAKE_TOOLCHAIN_FILE\u003d/Users/nguyenchivinhquang/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+    "-DCMAKE_MAKE_PROGRAM\u003d/Users/nguyenchivinhquang/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/nguyenchivinhquang/Desktop/ProjectAndroid/OpenCVExample/opencv/build/intermediates/cxx/RelWithDebInfo/1y276j4q/obj/x86_64",
+    "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/nguyenchivinhquang/Desktop/ProjectAndroid/OpenCVExample/opencv/build/intermediates/cxx/RelWithDebInfo/1y276j4q/obj/x86_64",
+    "-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo",
+    "-B/Users/nguyenchivinhquang/Desktop/ProjectAndroid/OpenCVExample/opencv/.cxx/RelWithDebInfo/1y276j4q/x86_64",
+    "-GNinja",
+    "-DANDROID_STL\u003dc++_shared"
+  ],
+  "stlLibraryFile": "/Users/nguyenchivinhquang/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+}
